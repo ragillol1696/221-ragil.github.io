@@ -1,0 +1,143 @@
+body{
+    background: url(images/siap.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e9db5cde;
+    text-align: center;
+    color:#e9db5cde;
+    padding: 250px;
+
+}
+.font{
+    font-size: 20px;
+    color: bisque;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+social-media-button {
+	border: none;
+	color: rgba(255, 255, 255, 0);     
+	font-size: 60px;
+	padding: 0.4em 1em;
+}
+
+.social-media-button:hover {
+	opacity: 0.1;
+}   
+.social-media-button.icon:before {
+	font-family: "Ionicons";
+	padding-right: 0.4em;
+}
+.social-media-button.icon.facebook:before {
+	content: "\f231";}    
+.social-media-button.facebook {
+	background: #3b5998;
+}
+.social-media-button.icon.instagram:before {
+    content: "\f351";}
+.social-media-button.icon.whatsapp:before {
+    content: "\f4f0";}
+.social-media-button.icon.google:before {
+     content: "\f34f";}
+
+
+     .header{
+        background: url(images/siap.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+       
+        background-color: black;
+        text-align: center;
+        color:#e9db5cde;
+        padding: 50px;
+        font-family: 'Times New Roman', Times, serif;;
+    
+    
+    
+        
+    }
+    
+    .header h1{
+        font-size: 80px;
+    }
+    .header p{
+        font-size: 30px;
+        color: bisque;
+    }
+    
+    
+    .navbar{
+        float: left;
+        background-color: rgba(47, 79, 79, 0);
+        background: center;
+        width: 100%;
+    
+    }
+    .navbar li{
+        float: left;
+        list-style: none;
+    }
+    .navbar li a{
+        color: #e9e390de;
+        text-align:center ;
+        padding: 15px 20px;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: bold;
+        display: block;
+        
+    
+    }
+    
+    .navbar li a:hover{
+        background-color: rgba(80, 79, 79, 0);
+        color: rgb(245, 245, 245);
+    }
+    .center ul{
+        width:-moz-fit-content;
+        width: -web-fit-content;
+        width: fit-content;
+        margin: auto;
+    }
+    .container{
+        text-align: center;
+        
+        
+        width: 90%;
+        margin-left:auto;
+        margin-right: auto;
+        margin-top: 50px;
+    
+    
+    
+        
+    }
+    
+    .header h1{
+        font-size: 75px;
+    }
+    .table.container{
+        width: 100%;
+        
+    
+    }
+    .tittle{
+        background-color: rgb(48, 49, 49);
+        color:#e9db5cde;
+        display: inline-block;
+        padding: 10px 20px;
+        margin: 0;
+        border-bottom-right-radius: 5px;
+        margin-bottom: 15px;
+      
+    
+    }    
+
+    
+
+    
+
